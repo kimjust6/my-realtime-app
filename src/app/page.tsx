@@ -20,6 +20,7 @@ export default function Home() {
             </div>
 
             <div>
+                Super Cool Wilber Demo
                 <Chat
                     endpoint={Resource.MyRealtime.endpoint}
                     authorizer={Resource.MyRealtime.authorizer}
